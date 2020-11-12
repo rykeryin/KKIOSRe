@@ -1,0 +1,6 @@
+framework module Pods_KKIOSRe_Example {
+  umbrella header "Pods-KKIOSRe_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

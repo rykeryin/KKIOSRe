@@ -1,0 +1,6 @@
+framework module KKIOSRe {
+  umbrella header "KKIOSRe-umbrella.h"
+
+  export *
+  module * { export * }
+}
